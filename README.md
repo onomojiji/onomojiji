@@ -1,4 +1,4 @@
-<h2 align="left"> Hi there 👋 my name is ONOMO Jean Baptiste, I am  a Software and Devops Engineer </h2>
+<h2 align="left"> Hi there 👋 my name is ONOMO JEAN BAPTISTE, I am  a Software and Devops Engineer </h2>
 
 <!--
 **onomojiji/onomojiji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -113,26 +113,22 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="30" alt="ssh logo"  />
+  <img src="https://roadmap.sh/img/brand-square.png" height="30" alt="ssh logo"  />
 </div>
 
 ###
 
 <div align="left">
-  <a href="[https://www.linkedin.com/in/franklinfokodjomou](https://www.linkedin.com/in/jean-baptiste-onomo-140968176/)" target="_blank">
+  <a href="https://www.linkedin.com/in/jean-baptiste-onomo-140968176/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="linkedin logo"  />
   </a>
-  <a href="onomojiji@gmail.com" target="_blank">
+  <a href="onomojj@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gmail logo"  />
   </a>
+  <a href="https://roadmap.sh/u/onomojb" target="_blank">
+    <img src="https://roadmap.sh/img/brand-square.png" height="33" alt="gmail logo"  />
   </a>
 </div>
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onomojiji&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=onomojiji&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onomojiji&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ###
