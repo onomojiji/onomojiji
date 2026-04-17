@@ -1,4 +1,4 @@
-<h2 align="left"> Hi there 👋 my name is ONOMO JEAN BAPTISTE, I am  a Software and Devops Engineer </h2>
+<h2 align="left"> Hi there 👋 my name is Jean Baptiste ONOMO, I am  a SOFTWARE and DEVOPS ENGINEER </h2>
 
 ## 🛠️ Tech Stack
 
