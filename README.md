@@ -109,9 +109,9 @@
   </a>
   &nbsp;&nbsp;
   <!-- AWS Certified Cloud Practitioner -->
-  <!-- <a href="https://www.credly.com/badges/your-aws-badge" target="_blank">
+  <a href="https://www.credly.com/badges/your-aws-badge" target="_blank">
     <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="110" alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" />
-  </a> -->
+  </a>
   &nbsp;&nbsp;
   <!-- HashiCorp Certified Terraform Associate -->
   <!-- <a href="https://www.credly.com/badges/your-terraform-badge" target="_blank">
