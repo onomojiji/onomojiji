@@ -109,7 +109,7 @@
   </a>
   &nbsp;&nbsp;
   <!-- AWS Certified Cloud Practitioner -->
-  <a href="https://www.credly.com/badges/your-aws-badge" target="_blank">
+  <a href="https://www.credly.com/badges/351f3d39-d272-4f7d-9935-4ea42e7ebbb0/public_url" target="_blank">
     <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" height="110" alt="AWS Certified Cloud Practitioner" title="AWS Certified Cloud Practitioner" />
   </a>
   &nbsp;&nbsp;
