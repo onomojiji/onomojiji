@@ -114,9 +114,9 @@
   </a>
   &nbsp;&nbsp;
   <!-- HashiCorp Certified Terraform Associate -->
-  <!-- <a href="https://www.credly.com/badges/your-terraform-badge" target="_blank">
+  <a href="https://www.credly.com/badges/your-terraform-badge" target="_blank">
     <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1256144051/d0da6cb2-8edb-438f-b6b2-abaf0acf6f0b11682161235118687450.png" height="110" alt="HashiCorp Certified Terraform Associate" title="HashiCorp Certified Terraform Associate" />
-  </a> -->
+  </a>
   &nbsp;&nbsp;
    <!-- AWS Certified Solutions Architect -->
   <!-- <a href="https://www.credly.com/badges/your-aws-badge" target="_blank">
